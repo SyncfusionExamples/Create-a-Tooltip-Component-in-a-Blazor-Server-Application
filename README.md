@@ -2,7 +2,7 @@
 
 This is a quick-start project provided by Syncfusion that helps you create a Blazor Tooltip. This example explains how to create a Blazor application and add the Syncfusion Blazor package. It also shows how to add the Syncfusion Blazor Tooltip component to the Blazor server application, position the tooltip, use sticky mode, and render the tooltip content using an HTML template.
 
-Watch a How-to Video:
+Watch a How-to Video: https://www.syncfusion.com/tutorial-videos/blazor/tooltip?title=create-a-tooltip-component-in-a-blazor-server-application
 
 Documentation: https://blazor.syncfusion.com/documentation/tooltip/getting-started
 
