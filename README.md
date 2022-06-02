@@ -59,7 +59,7 @@ This is a commercial product and requires a paid license for possession or use. 
 
 [Documentation](https://blazor.syncfusion.com/documentation/tooltip/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-tooltip-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/tooltip/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-tooltip-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/Create-a-Tooltip-Component-in-a-Blazor-Server-Application?utm_source=github&utm_medium=listing&utm_campaign=blazor-tooltip-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-tooltip-github-samples)
 
