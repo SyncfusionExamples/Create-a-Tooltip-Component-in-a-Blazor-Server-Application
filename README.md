@@ -70,7 +70,7 @@ This is a commercial product and requires a paid license for possession or use. 
 [Knowledge base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-tooltip-github-samples)
 
 ### About Syncfusion Blazor Components
-The Syncfusion's Blazor components library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Tooltip, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram and Word Processor.
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Tooltip, we provide popular Blazor Components such as DataGrid, Chart, Scheduler, Diagram and Word Processor.
 
 ### About Syncfusion
 Founded in 2001 and headquartered in Research Triangle Park, N.C., Syncfusion has more than 27,000 customers and more than 1 million users, including large financial institutions, Fortune 500 companies, and global IT consultancies.
