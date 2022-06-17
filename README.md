@@ -1,27 +1,10 @@
 ### Syncfusion Blazor Popup Components
 
-This package contains [Blazor Dialog](https://www.syncfusion.com/blazor-components/blazor-modal-dialog?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github) and [Blazor Tooltip](https://www.syncfusion.com/blazor-components/blazor-tooltip?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github) components for Blazor application.
+This package contains [Blazor Tooltip](https://www.syncfusion.com/blazor-components/blazor-tooltip?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github) and [Blazor Tooltip](https://www.syncfusion.com/blazor-components/blazor-tooltip?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github) components for Blazor application.
 
 ### System Requirements
 
 * [System Requirements](https://blazor.syncfusion.com/documentation/system-requirements?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github)
-
-### Blazor Dialog
-
-The [Blazor Dialog](https://www.syncfusion.com/blazor-components/blazor-modal-dialog?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github) is a useful user interface (UI) component for informing users about critical information, errors, warnings, and questions, as well as confirming decisions and collecting input from users. The component has a rich set of built-in features such as action buttons, positioning, animations, dragging, resizing, templating, and more with mobile dialog support. The Blazor dialog provides two different types: modal dialogs and non-modal dialogs (modeless) based on interactions.
-
-![Blazor Dialog](https://raw.githubusercontent.com/SyncfusionExamples/github-img/master/blazor/blazor-dialog.png)
-
-#### Getting Started
-
-* [Getting Started with Blazor Dialog](https://blazor.syncfusion.com/documentation/dialog/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github)
-
-#### Resources
-
-* [Blazor Dialog Component Features Overview](https://www.syncfusion.com/blazor-components/blazor-modal-dialog?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github)
-* [Blazor Dialog Component Documentation](https://blazor.syncfusion.com/documentation/dialog/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github)
-* [Blazor Dialog Component Demos](https://blazor.syncfusion.com/demos/dialog/default-functionalities?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github)
-* [Blazor Dialog Component Video Tutorials](https://www.syncfusion.com/tutorial-videos/blazor/dialog?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github)
 
 ### Blazor Tooltip
 
@@ -46,6 +29,24 @@ The [Blazor Tooltip](https://www.syncfusion.com/blazor-components/blazor-tooltip
 
 ### License
 This is a commercial product and requires a paid license for possession or use. Syncfusion’s licensed software, including this component, is subject to the terms and conditions of [Syncfusion's EULA](https://www.syncfusion.com/eula/es/?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github). You can purchase a license [here]( https://www.syncfusion.com/sales/products?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github) or start a free 30-day trial [here](https://www.syncfusion.com/account/manage-trials/start-trials?utm_source=github&utm_medium=listing&utm_campaign=blazor-popups-github).
+
+## Features and Benefits
+
+## Offsets
+
+Blazor Tooltip has options to customize the offset position of the Tooltip from the target element. This offset value is defined in pixels.
+
+## Interactivity
+
+By default, the Blazor Tooltip will show and hide when hovering in and out. You can stop the show and hide triggers and make the Tooltip visible always.
+
+## Triggers
+
+You can show tooltips when you hover, click, touch, and focus on any element.
+
+## Easy integration
+
+You just need message and target element to make the tooltip fully functional. It will work out of the box. However, it provides many options to change the position, animation, and appearance.
 
 ## Related links
 
