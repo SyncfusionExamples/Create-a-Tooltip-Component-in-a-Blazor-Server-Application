@@ -1,52 +1,50 @@
 ﻿@page "/"
-@using Syncfusion.Blazor.Popups
-@using Syncfusion.Blazor.Buttons  
 
-    <SfTooltip Target="#btn" Position="Position.RightCenter" IsSticky="true">
-        <TooltipTemplates>
-            <Content>
-                <div id='democontent'>
-                    <div class='info'>
-                        <h3 style='margin-top:10px'>Eastern Bluebird</h3>
-                        <div>
-                            <div style='float:left;width:57%'>
-                                The<a href='https://en.wikipedia.org/wiki/Eastern_bluebird' target='blank'> Eastern Bluebird</a>
-                                is easily found in open fields and sparse woodland areas, including along woodland edges.These are<i>cavity-nesting birds</i>and a pair of eastern bluebirds will raise 2-3 broods annually, with 2-8 light blue or whitish eggs per brood.
-                            </div>
-                            <div id='bird'><img src='https://blazor.syncfusion.com/demos/css/tooltip/bird.png' width='125' height='125' /></div>
+<SfTooltip Target="#btn" Position="Position.RightCenter" IsSticky="true">
+    <TooltipTemplates>
+        <Content>
+            <div id='democontent'>
+                <div class='info'>
+                    <h3 style='margin-top:10px'>Eastern Bluebird</h3>
+                    <div>
+                        <div style='float:left;width:57%'>
+                            The<a href='https://en.wikipedia.org/wiki/Eastern_bluebird' target='blank'> Eastern Bluebird</a>
+                            is easily found in open fields and sparse woodland areas, including along woodland edges.These are<i>cavity-nesting birds</i>and a pair of eastern bluebirds will raise 2-3 broods annually, with 2-8 light blue or whitish eggs per brood.
                         </div>
-                        <div style="clear:both">
-                            <p> Eastern bluebirds can be very vocal in flocks. Their calls include a rapid, mid-tone chatter and several long dropping pitch calls.</p>
-                        </div>
+                        <div id='bird'><img src='bird.png' width='125' height='125' /></div>
+                    </div>
+                    <div style="clear:both">
+                        <p> Eastern bluebirds can be very vocal in flocks. Their calls include a rapid, mid-tone chatter and several long dropping pitch calls.</p>
                     </div>
                 </div>
-            </Content>
-        </TooltipTemplates>
-        <SfButton ID="btn" Content="Show Tooltip"></SfButton>
-    </SfTooltip>
+            </div>
+        </Content>
+    </TooltipTemplates>
+    <SfButton ID="btn" Content="Show Tooltip"></SfButton>
+</SfTooltip>
 
-    <style>
+<style>
 
-        #btn {
-            width: 130px;
-            margin: 30px auto;
-        }
+    #btn {
+        width: 130px;
+        margin: 30px auto;
+    }
 
-        #democontent {
-            border: 0.5px solid grey;
-        }
+    #democontent {
+        border: 0.5px solid grey;
+    }
 
-        #bird {
-            padding-top: 4px;
-            float: right;
-            width: 42%;
-        }
+    #bird {
+        padding-top: 4px;
+        float: right;
+        width: 42%;
+    }
 
-        #democontent .info a {
-            color: #2FA1E3;
-        }
+    #democontent .info a {
+        color: #2FA1E3;
+    }
 
-        #democontent .info {
-            padding: 0px 12px 0px 5px;
-        }
-    </style>
+    #democontent .info {
+        padding: 0px 12px 0px 5px;
+    }
+</style>
